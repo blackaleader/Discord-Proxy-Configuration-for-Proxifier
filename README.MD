@@ -1,5 +1,10 @@
 # Proxifie Discord Proxy Configuration
 
+
+[Go to English Version](README.md) 🇬🇧
+[Go to Persian Version](README_FA.md) 🇮🇷
+
+
 ## Overview
 
 This Proxifie configuration profile is designed to specifically proxy Discord network packets, allowing users in restricted regions like Iran to access Discord without routing all network traffic through a proxy. By using this configuration, users can bypass restrictions imposed by their internet service provider or government without affecting the performance of other applications.
