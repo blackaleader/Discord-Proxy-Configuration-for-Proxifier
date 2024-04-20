@@ -1,8 +1,8 @@
 # Proxifie Discord Proxy Configuration
 
 
-[Go to English Version](README.md) 🇬🇧
-[Go to Persian Version](README_FA.md) 🇮🇷
+[English](README.md) 🇬🇧
+[فارسی](README-fa.md) 🇮🇷
 
 
 ## Overview
