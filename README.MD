@@ -8,7 +8,7 @@ This Proxifie configuration profile is designed to specifically proxy Discord ne
 
 - **Targeted Proxying**: Instead of routing all internet traffic through a proxy, this configuration specifically targets Discord traffic. This ensures that other applications and services operate at their full potential without the overhead of proxying unnecessary data.
 
-- **Improved Security and Privacy**: By using a proxy, users can bypass censorship measures imposed by ISPs or governments, ensuring their right to freedom of expression and access to information. Additionally, the proxy adds an extra layer of encryption, enhancing privacy and security while using Discord.
+- **Easy Profile Swapping**: Proxifie offers a simple profile swapping feature, making it easy for users to switch between different proxy configurations. By utilizing this feature, users can quickly adapt to changing network conditions or switch between different proxy servers as needed.
 
 ## Installation
 
