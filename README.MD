@@ -1,4 +1,4 @@
-# Proxifie Discord Proxy Configuration
+# Proxifier Discord Proxy Configuration
 
 
 [English](README.md) 🇬🇧
